@@ -1,0 +1,12 @@
+.ant-tree-title {
+    font-weight: 400;
+}
+
+.ant-tree-title:hover, .ant-tree-iconEle:hover, .ant-tree-icon__customize:hover, .hoverWhiteBold:hover {
+    color: white;
+    font-weight: 700;
+}
+
+.ant-tree-node-selected>.ant-tree-title:hover {
+    color: black;
+}

@@ -1,0 +1,8 @@
+.ant-tabs-nav-wrap {
+    padding: 10px 10px 0;
+    color : "white";
+}
+
+.ant-tabs-tab {
+    border : none !important;
+}

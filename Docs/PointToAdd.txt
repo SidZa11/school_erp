@@ -1,0 +1,21 @@
+har ek class ke liye kitne subject assign rahi har accedmic wise oka mapping kare khe.
+
+har ek class ke liye kitne exam or konse exam rakhe khe oka mapping.
+
+number of days column needs to be add that indicated how much day of holiday.
+
+student master me blood grp, 2 phone daale khe.
+
+Teacher ke master table me last day daale khe teacher jab chhordi.
+
+Employee master ke baare me soche khe.
+
+Ek teacher har saal konsa subject podhayes hai
+
+Admission amount to be add in fees type master table.
+
+Photo ki column add kare khe master me.
+
+User creation for approval.
+
+Employee master banake m_user me relation banawa khe... per f.k relation nai rahi..bas ek field rahi. =>reason (login koi b ho sakta h)
